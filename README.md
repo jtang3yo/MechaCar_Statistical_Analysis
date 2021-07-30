@@ -75,7 +75,9 @@ Similarly, but significantly more consistent, Lot 1 and Lot 2 are well within th
 ### Deliverable 4: Study Design: MechaCar vs Competition.
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating
   * What metric or metrics are you going to test?
-  **Metrics**
+ 
+  **Metrics**: 
+  
     1. Current Price (Selling): **Dependent Variable**
     2. Drive Package: **Independent Variable**
     3. Safety Feature Rating: **Independent Variable**
@@ -85,15 +87,19 @@ Write a short description of a statistical study that can quantify how the Mecha
     7. MPG (Gasoline Efficiency): **Independent Variable**
     
   * What is the null hypothesis or alternative hypothesis?
+ 
     * Null Hypothesis (H0): MechaCar is NOT priced correctly based on performance of key factors/metrics for its genre after determining which factors/metrics are critical to MechaCar's genre. 
     * Alternative Hypothesis (Ha): MechaCar is priced correctly based on its performance of key factors/metrics for its genre.
   
   * What statistical test would you use to test the hypothesis? And why?
-  **Statistical Tests**
+ 
+  **Statistical Tests**:
     **Multiple linear regression** will be used to determine the factors that have the highest correlation/predictability with the list selling price (dependent variable); which combination has the greatest impact on price or it may be related to all of the factors. 
   
   * What data is needed to run the statistical test?
-    **Data Source**: Data that contains the above mentioned metrics will be used to run statistical tests. 
+ 
+    **Data Source**:
+    Data that contains the above mentioned metrics will be used to run statistical tests. 
 
 
 
